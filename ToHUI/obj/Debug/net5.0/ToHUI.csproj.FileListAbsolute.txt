@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ToHUI.exe
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ToHUI.deps.json
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ToHUI.runtimeconfig.json
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ToHUI.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ToHUI.dll
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ref\ToHUI.dll
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\bin\Debug\net5.0\ToHUI.pdb
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.dll
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ref\ToHUI.dll
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.pdb
+C:\Users\Owner\Desktop\Repos\toh\ToHUI\obj\Debug\net5.0\ToHUI.genruntimeconfig.cache
